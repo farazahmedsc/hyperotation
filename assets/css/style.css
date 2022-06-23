@@ -581,6 +581,7 @@ img {
   -webkit-transition:all 500ms ease;
   -ms-transition:all 500ms ease;
   -o-transition:all 500ms ease;
+  background: #000;
 }
 
 .sticky-header{
@@ -752,7 +753,7 @@ img {
   position: relative;
   display: inline-block;
   font-size: 14px;
-  color: #222222;
+  color: #fff;
   margin-right: 30px;
 }
 
@@ -762,7 +763,7 @@ img {
 
 .main-header .header-top .info li a{
   display: inline-block;
-  color: #222;
+  color: #fff;
 }
 
 .main-header .header-top .info li a:hover{
@@ -770,7 +771,7 @@ img {
 }
 
 .main-header .header-top .info li i{
-  color: #b3b3b3;
+  color: #fff;
   margin-right: 10px;
 }
 
@@ -909,7 +910,7 @@ img {
 
 .main-header .menu-right-content li a{
   display: inline-block;
-  color: #222;
+  color: #fff;
 }
 
 .main-header .menu-right-content li a:hover{
@@ -933,10 +934,10 @@ img {
   width: 19px;
   height: 19px;
   line-height: 19px;
-  background: #2e2e2e;
+  background: #fff;
   border-radius: 50%;
   text-align: center;
-  color: #fff;
+  color: #000;
   font-size: 11px;
   font-weight: 500;
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.2);
@@ -1024,7 +1025,7 @@ img {
   font-weight:500;
   opacity:1;
   font-family: 'Poppins', sans-serif;
-  color:#222;
+  color:#fff;
   z-index:1;
   padding-right: 17px;
   -webkit-transition:all 500ms ease;
@@ -1043,7 +1044,7 @@ img {
   font-size: 15px;
   top: 0px;
   right: 0px;
-  color: #888;
+  color: #fff;
   font-weight: 700;
   transition: all 500ms ease;
 }
@@ -1662,7 +1663,7 @@ div#mCSB_1_container{
 .main-header .search-btn .search-toggler{
   position: relative;
   font-size: 22px;
-  color: #222;
+  color: #fff;
   font-weight: 400;
   background: transparent;
   cursor: pointer;

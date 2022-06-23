@@ -222,6 +222,7 @@
             loop:true,
 			margin:0,
 			nav:true,
+			dots:false,
 			animateOut: 'fadeOut',
     		animateIn: 'fadeIn',
     		active: true,
@@ -359,6 +360,7 @@
 			loop:true,
 			margin:10,
 			nav:false,
+			
 			smartSpeed: 3000,
 			autoplay: true,
 			navText: [ '<span class="fas fa-angle-left"></span>', '<span class="fas fa-angle-right"></span>' ],
